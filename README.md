@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/3ebc4c26-e907-48d3-8fa3-9e3e39617da1
-
-<img width="639" height="287" alt="1" src="https://github.com/user-attachments/assets/2a4fb184-9d4b-43c7-80b0-5025143d3d35" />
 # Timer Project
 
 ## About The Project
@@ -47,3 +42,8 @@ The application has three tools:
 * Events and event handling
 * Timer
 * Basic time and countdown logic
+
+
+https://github.com/user-attachments/assets/3ebc4c26-e907-48d3-8fa3-9e3e39617da1
+
+<img width="639" height="287" alt="1" src="https://github.com/user-attachments/assets/2a4fb184-9d4b-43c7-80b0-5025143d3d35" />
